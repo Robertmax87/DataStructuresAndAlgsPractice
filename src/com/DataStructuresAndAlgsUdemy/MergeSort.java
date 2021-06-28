@@ -1,3 +1,5 @@
+package com.DataStructuresAndAlgsUdemy;
+
 public class MergeSort {
     public static void main(String[] args){
      int[] array = {12,45,5,24,66,43,6,56,5,3,54245,5245,6,6,57,7,356};

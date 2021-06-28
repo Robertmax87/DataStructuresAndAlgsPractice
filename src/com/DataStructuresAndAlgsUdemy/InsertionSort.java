@@ -1,3 +1,5 @@
+package com.DataStructuresAndAlgsUdemy;
+
 public class InsertionSort {
     public static void main(String[] args) {
         int[] a = {123, 4, 134, 5, 425, 4, 456547, 246, 65, 7, 64, 76, 8, 579, 8, 9680, 9, 79, 9};

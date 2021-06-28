@@ -1,4 +1,4 @@
-package com;
+package com.DataStructuresAndAlgsUdemy;
 
 public class BubbleSort {
     public static void main(String[] args) {

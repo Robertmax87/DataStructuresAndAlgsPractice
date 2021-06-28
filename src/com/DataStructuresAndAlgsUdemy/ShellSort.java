@@ -1,3 +1,5 @@
+package com.DataStructuresAndAlgsUdemy;
+
 public class ShellSort {
     public static void main(String[] args){
        int[] a = {12,1324,4,5,6,57,3245,7,87,9,59,68,245,65,3,6,87,7,79,68060,68};

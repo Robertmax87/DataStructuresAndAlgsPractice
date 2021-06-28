@@ -1,3 +1,5 @@
+package com.DataStructuresAndAlgsUdemy;
+
 public class SelectionSort {
     public static void main(String[] args){
         /*instantiate array*/
